@@ -123,33 +123,36 @@ if uploaded_file is not None:
 streamlit run app.py
 ```
 
-![image](https://github.com/Agussetiaa/Uas3_Pengolahancitra/assets/115542822/f5c9ba4e-678e-4a32-afe8-ecb5d5b5d87f)
+![Screenshot (561)](https://github.com/muhamadfarrasjasir12/UTS_Pengolahan_Citra/assets/150880443/5d9d9dcc-9c72-4cfa-a5a7-a2d09b33e3a6)
+
 
 ### Dan Hasil run Silahkan pindah ke chrome untuk tampilan nya seperti gamabr di abawah ini :
 
-![image](https://github.com/Agussetiaa/Uas3_Pengolahancitra/assets/115542822/bbe1ae56-1cdf-49f4-a76b-8e26c35bd01a)
+![Screenshot (557)](https://github.com/muhamadfarrasjasir12/UTS_Pengolahan_Citra/assets/150880443/76dd96ff-ce40-42c3-89a3-d9a605a5c653)
+
 
 ### Silakahkan klik browse file dan pilih gambar yang akan di manipulasi 
 
 #### *Gambar Original*
 
-![image](https://github.com/Agussetiaa/Uas3_Pengolahancitra/assets/115542822/8b03954c-caec-4402-9d7f-e3db71a009ef)
+![Screenshot (557)](https://github.com/muhamadfarrasjasir12/UTS_Pengolahan_Citra/assets/150880443/90012622-c482-49ac-9979-29419100d40b)
+
 
 #### *RGB menjadi HSV*
 
-![image](https://github.com/Agussetiaa/Uas3_Pengolahancitra/assets/115542822/6f8ecbe5-2926-4d6a-a5d9-2a6c42842197)
+![Screenshot (558)](https://github.com/muhamadfarrasjasir12/UTS_Pengolahan_Citra/assets/150880443/03290153-180c-4367-bb2b-fa95f3de2196)
+
 
 #### *hasil gambar menghitung Histogram*
 
-![image](https://github.com/Agussetiaa/Uas3_Pengolahancitra/assets/115542822/dbec6fe1-a058-4605-b20f-3a27befb875c)
+![Screenshot (560)](https://github.com/muhamadfarrasjasir12/UTS_Pengolahan_Citra/assets/150880443/dbd5352f-eca6-4172-b319-98478cc6e000)
 
-#### *hasil gambar mengatur Brignest dan Contras*
 
-![image](https://github.com/Agussetiaa/Uas3_Pengolahancitra/assets/115542822/942ba0d9-3a48-4c7a-be91-8e94f9b53606)
 
 #### *hasil gambar Contour*
 
-![image](https://github.com/Agussetiaa/Uas3_Pengolahancitra/assets/115542822/1b1794f2-723f-4bc0-870c-0825c1b11ff0)
+![Screenshot (559)](https://github.com/muhamadfarrasjasir12/UTS_Pengolahan_Citra/assets/150880443/d64dc82b-f617-42c4-a218-01d137aa310c)
+
 
 
 ### *--------------------------------------- Terimakasih -----------------------------------------------*
