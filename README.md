@@ -159,4 +159,4 @@ streamlit run app.py
 
 
 ### Link Webapp
-http://192.168.160.72:8501
+http://192.168.0.105:8501
